@@ -1,15 +1,17 @@
 {
   "name": "sr-app-dummy",
   "version": "0.1.0",
+  "license": "UNLICENSED",
   "private": false,
   "engines": {
     "node": ">=16"
   },
   "dependencies": {
+    "@rancher/shell": "1.2.3",
     "cache-loader": "^4.1.0",
     "color": "4.2.3",
-    "ip": "2.0.1",
-    "@rancher/shell": "1.2.3"
+    "core-js": "^3.39.0",
+    "ip": "2.0.1"
   },
   "scripts": {
     "dev": "NODE_ENV=dev ./node_modules/.bin/vue-cli-service serve",
