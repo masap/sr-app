@@ -1,0 +1,2 @@
+(("undefined"!==typeof self?self:this)["webpackJsonpsr_app_0_1_0"]=("undefined"!==typeof self?self:this)["webpackJsonpsr_app_0_1_0"]||[]).push([[0],{e26d:function(e,s,n){"use strict";n.r(s);var t=function(){var e=this,s=e._self._c;return s("h1",[e._v("DetailView")])},f=[],i={name:"ReviewBundleDetailView"},l=i,p=n("2be6"),a=Object(p["a"])(l,t,f,!1,null,"327f45d5",null);s["default"]=a.exports}}]);
+//# sourceMappingURL=sr-app-0.1.0.umd.min.detail.js.map
